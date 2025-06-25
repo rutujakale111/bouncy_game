@@ -34,7 +34,7 @@ The game tracks the player's score and includes a pause and resume feature for a
    pip install tk
 ## Clone this repository:
 
-git clone https://github.com/your-username/bounce-game.git
+git clone https://github.com/rutujakale111/bouncy_game.git
 cd bouncy_game
 ## Run the game:
 
